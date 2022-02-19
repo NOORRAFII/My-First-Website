@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+img {
+    width: 25%;
+}
+#murgi {
+    width: 25%;
+    float: right;
+}
